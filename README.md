@@ -1,0 +1,1 @@
+# Program-in-c-to-print-only-te-diagonal-elements-of-a-matrix.
